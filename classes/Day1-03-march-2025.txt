@@ -1,0 +1,49 @@
+Agenda:
+1. Introduction to Data Science
+2. Getting Started with Python
+for data science
+3. Hands-on session
+
+Python
+
+open command prompt
+Windows search
+
+create pythonprogram folder
+
+1. Create a program 
+1-simpleinterest.py
+
+function to calculate
+simple interest
+
+this function should take
+principal,roi and time as input
+This should return simpleinterest
+
+si = p*r*t/100
+
+2. Create 2-SimpleCalculator.py
+
+Write following functions
+a. add(n1,n2)
+should return sum
+b.subtract(n1,n2)
+should return the difference between n1 and n2
+c.multiply(n1,n2)
+should return the product of n1 and n2
+d.divide(n1,n2)
+should return the division of n1/n2
+
+
+https://www.w3schools.com/python/
+
+4-SamplePrograms.py
+
+write a function to check whether a given 
+
+number is even or odd
+
+def evenorodd(num)
+
+
