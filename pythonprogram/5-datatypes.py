@@ -1,15 +1,36 @@
+# Data types in python
 # int
-x=10
-print(x)
-print(type(x))
-
+'''
+in java:
+int age = 20;
+'''
+a=10
+print("value of a is", a)
+print(type(a))
 # float
+b=3.5
+print(type(b))
+# string
+c="Hello"
+print(type(c))
 
-y=10.5
-print(y)
-print(type(y))
+# set
+d={1,2,3}
+print(type(d))
 
-# complex
-z=10+5j
-print(z)
-print(type(z))
+# tuple
+e=(7,8,9)
+print(type(e))
+
+# list
+f=[1,2,3,4]
+print(type(f))
+
+# dictionary
+g={"name":"john"}
+print(type(g))
+
+# boolean
+h=True
+print(type(h))
+
