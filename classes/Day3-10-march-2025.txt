@@ -1,0 +1,5 @@
+ Agenda
+OOPs
+class and objects
+list methods
+dict methodse
