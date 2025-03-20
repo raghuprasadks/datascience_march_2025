@@ -43,20 +43,19 @@ obj3.display()
 class Calculator:
     def add(self, a, b):
         return a+b
-
     def sub(self, a, b):
         print("substraction :",a-b)
-
     def mul(self, a, b):
         return a*b
-
     def div(self, a, b):
         return a/b
-
 calc1=Calculator()
 result=calc1.add(10, 20)
 print("Addition: ", result)
 calc1.sub(10, 20)
+
+
+
 
 
 

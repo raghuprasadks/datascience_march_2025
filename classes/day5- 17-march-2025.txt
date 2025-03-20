@@ -1,0 +1,8 @@
+Agenda
+
+numpy iteration
+numpy slicing
+numpy shapes
+numpy reshaping
+
+

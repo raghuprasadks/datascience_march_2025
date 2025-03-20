@@ -1,0 +1,29 @@
+
+commands for windows
+
+python -m venv myven ---creating venv
+myvenv/Scripts/activate   --activating venv
+pip install <package_name>   --install packages
+
+
+
+
+
+
+
+
+commands for MacBook
+
+
+python3 -m venv myven      --creating venv
+source myven/bin/activate    --activating venv
+pip3 install <package_name>   --installing packages
+
+
+
+1.numpy array
+2. numpy arrays vs python list
+3.crearting virtual environment and definition
+4.jupyter notebook, numpy, pandas, matplotlib  installing
+5. how to write a sampke code in jupyter notebook
+6. numpy .....
