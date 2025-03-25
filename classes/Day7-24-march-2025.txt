@@ -1,0 +1,14 @@
+Pandas:
+
+Reading data from csv
+Its operations
+
+
+Reading data from json
+Its operations
+
+
+Reading data from excel 
+Its operations
+
+Data cleaning of w3schools data.csv
