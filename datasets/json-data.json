@@ -1,0 +1,32 @@
+[
+    {
+        "Product": "Laptop",
+        "Category": "Electronics",
+        "Price": 800,
+        "Quantity": 5
+    },
+    {
+        "Product": "Smartphone",
+        "Category": "Electronics",
+        "Price": 500,
+        "Quantity": 10
+    },
+    {
+        "Product": "Headphones",
+        "Category": "Accessories",
+        "Price": 50,
+        "Quantity": 20
+    },
+    {
+        "Product": "Notebook",
+        "Category": "Stationery",
+        "Price": 5,
+        "Quantity": 100
+    },
+    {
+        "Product": "Pen",
+        "Category": "Stationery",
+        "Price": 2,
+        "Quantity": 200
+    }
+]
