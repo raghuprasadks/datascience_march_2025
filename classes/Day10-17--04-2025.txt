@@ -1,0 +1,10 @@
+Agenda:
+
+	1.One simple data analysis project using kaggel dataset
+		use pandas loading csv
+	
+	2.Statistics and probability
+
+	3.Seaborn introduction
+
+	

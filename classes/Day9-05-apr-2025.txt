@@ -1,0 +1,31 @@
+Agenda 
+  today we will work on data analysis using sample data by creating numpy arrays 
+  it contains:
+	1.numpy
+	2.pandas
+	3.matplotlib
+  problem statement
+     create a sample data column contains  product names, sales, revenue, date
+          atleast 5 datas
+
+data frame  the data 
+use describe functions to find the max , min ,25%  50%, 75% ,max std
+mean --> summary statistics
+
+
+display the data of total sales per product
+   -> use groupby for product and sales and sum
+
+
+
+data visualization:
+
+ 1. Bar graph
+	total_sales er product
+ 2.scatter plot
+	sales and revenue
+ 3. line graph
+	date , sales
+	date , revenue
+ 4. pie chart
+	total_sales by products

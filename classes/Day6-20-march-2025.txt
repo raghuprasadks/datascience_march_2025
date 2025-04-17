@@ -1,0 +1,10 @@
+Agenda:
+
+Pandas
+	installing pandas   pip install pandas- windows
+	working on pandas
+to activate venv -- myven\scripts\activate
+install pandas -- pip install pandas
+
+
+Kushalya tech website -->git--> repository--> data science march 2025 --> pythonprogram--> pandaad --> download csv and json files
