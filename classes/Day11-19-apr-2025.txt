@@ -17,3 +17,32 @@ to install python library
 refer to pypi.org
 pip install pandas matplotlib scikit-learn jupyter
 
+1-ml-linearregression
+
+import pandas as pd
+import numpy as np
+from sklearn import linear_model
+import matplotlib.pyplot as plt
+
+df =  pd.read_csv('homeprices.csv')
+df
+
+
+open git
+
+datascience_march_2025
+machine learning
+download areas.csv
+homeprices.csv
+1-sb-linearregression.py
+1-sb-linearregerssion.ipynb
+open google colab
+upload 1-sb-linearregerssion.ipynb
+upload homeprices.csv
+
+
+
+
+
+
+
