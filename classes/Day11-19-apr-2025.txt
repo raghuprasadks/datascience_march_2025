@@ -1,0 +1,19 @@
+Agenda:
+1. Introduction to Machine Learning as part of Data Science
+Python
+NumPy
+pandas - Series and Dataframe
+matplotlib
+
+Steps
+1. create machinelearning folder
+2. cd to machinelerning
+3. open in visual studio code
+code .
+4. open terminal
+5. python -m venv myenv
+6. .\myenv\Scripts\activate
+to install python library
+refer to pypi.org
+pip install pandas matplotlib scikit-learn jupyter
+
