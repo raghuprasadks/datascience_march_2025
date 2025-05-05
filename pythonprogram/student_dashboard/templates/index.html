@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Performance Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Student Performance Dashboard</h1>
+
+        <div class="graph-row">
+            <div class="graph-card">
+                <h2>Average Subject Scores</h2>
+                <img src="{{ image_avg }}" alt="Average Scores">
+            </div>
+            <div class="graph-card">
+                <h2>Pass vs Fail Distribution</h2>
+                <img src="{{ image_pie }}" alt="Pass vs Fail">
+            </div>
+            <div class="graph-card">
+                <h2>Attendance vs Final Score</h2>
+                <img src="{{ image_attendance }}" alt="Attendance vs Score">
+            </div>
+        </div>
+
+        <h2>📋 Student Records</h2>
+        <div class="table-container">
+            {{ table|safe }}
+        </div>
+        <div class="button-area">
+            <a href="/add"><button>Add New Student</button></a>
+        </div>
+    </div>
+</body>
+</html>

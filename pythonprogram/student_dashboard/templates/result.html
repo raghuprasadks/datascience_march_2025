@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Prediction Result for {{ name }}</h1>
+    <p><strong>Math:</strong> {{ math }}</p>
+    <p><strong>Science:</strong> {{ science }}</p>
+    <p><strong>English:</strong> {{ english }}</p>
+    <p><strong>Attendance:</strong> {{ attendance }}%</p>
+    <hr>
+    <h2>Predicted Final Score: {{ final_score }}</h2>
+    <h2>Status: <span style="color: {{ 'green' if status == 'Pass' else 'red' }}">{{ status }}</span></h2>
+    <br>
+    <a href="/">⬅ Back to Dashboard</a>
+</body>
+</html>
