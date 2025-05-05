@@ -1,0 +1,27 @@
+Open GitHub from kaushalya (www.kaushalya.tech) website 
+datascience repo
+open pythonprogramme folder inside it there is student_dashboard folder
+
+first develope that student_dashboard 
+install liberaries
+
+cmd
+
+cd student_dashboard
+
+pip install flask scikit-learn matplotlib pandas
+
+create prpject folder student_dashboard
+
+
+create folders
+data ->inside it student.csv
+templates ->inside it html files (add.html, index.html, result.html)
+static -> inside it style.css
+
+create flask python file-->
+app.py ,file
+
+python app.py
+
+
